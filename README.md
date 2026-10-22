@@ -1,56 +1,102 @@
-# Hello, I'm Phebe Abayomi
-<a href="https://linkedin.com/in/phebe-abayomi-68aa541aa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Phebe Abayomi 👋
+
+### Cybersecurity Analyst | Threat Detection | Security Automation | Cloud & Application Security
+
+I'm an aspiring cybersecurity professional based in Nigeria, passionate about detecting threats, strengthening security controls, and building practical solutions that help protect systems, applications, and sensitive data.
+
+My experience spans security monitoring, endpoint detection and response, vulnerability assessment, web application security testing, and security automation. I'm particularly interested in how threat intelligence, automation, and cloud security can improve an organisation's ability to detect, investigate, and respond to cyber threats.
+
+- 🔐 Currently developing my skills in security operations, threat hunting, vulnerability management, and cloud security.
+- 🛡️ Gaining hands-on experience with SIEM, EDR, and web application penetration testing.
+- 🧰 Building **SecretGuard**, a Python-based tool for detecting and reporting exposed secrets in source code.
+- ☁️ Working toward my long-term goal of becoming a Cloud Security Engineer.
+- 📚 Continuously learning through hands-on labs, security projects, and professional training.
+
 ---
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+## 🛠️ Technical Skills & Tools
+
+| Area | Technologies and Tools |
+|---|---|
+| Security Monitoring & Incident Response | Rapid7, Wazuh, SentinelOne |
+| Vulnerability Assessment & Web Security | Burp Suite, OWASP testing concepts |
+| Network Security | Wireshark, Snort |
+| Operating Systems & Security Labs | Linux, Kali Linux |
+| Cloud & DevSecOps | AWS, Docker, GitHub Actions |
+| Security Automation & Scripting | Python, Pytest |
+| AI & Local AI Tools | Ollama |
+| Threat Analysis | MITRE ATT&CK |
+| Version Control & Collaboration | Git, GitHub |
+
 ---
-## Objective
-I am enthusiastic about information security and helping people and organizations build core values that ensure cyber-safety. I place a high value on integrity, solving problems, adhering to rules and regulations, and protecting sensitive information about people and organizations I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## 🚀 Featured Project
+
+### 🔎 SecretGuard — Automated Secrets Scanner
+
+A Python-based security tool designed to identify potentially exposed credentials in source code and help developers address secrets before they become security incidents.
+
+**Key features**
+
+- Detects potential API keys, passwords, access tokens, private keys, and database credentials.
+- Uses pattern matching and contextual analysis to identify suspicious secrets.
+- Assigns confidence scores and severity levels to findings.
+- Masks sensitive values in scan output and reports.
+- Generates JSON and HTML reports with remediation guidance.
+- Integrates with GitHub Actions to run automated scans and enforce configurable security thresholds in CI/CD workflows.
+- Includes automated tests using Pytest.
+
+**Technologies:** Python, Pytest, YAML, GitHub Actions, JSON, HTML.
+
+The project reflects my interest in application security, secure software development, and practical DevSecOps automation.
+
 ---
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 💻 What I'm Working On
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- **Security operations:** Investigating security alerts, analysing SIEM and EDR data, and supporting incident response.
+- **Threat hunting:** Developing a deeper understanding of attacker behaviour, indicators of compromise, and MITRE ATT&CK techniques.
+- **Application security:** Practising vulnerability discovery and web application testing with Burp Suite.
+- **Security automation:** Building Python-based tools and integrating security checks into development workflows.
+- **Cloud security:** Strengthening my understanding of cloud risks, access controls, and secure infrastructure.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## 🎓 Certifications & Professional Training
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+- ISC2 Certified in Cybersecurity (CC)
+- Cisco Junior Cybersecurity Analyst Career Path
+- Cisco Cyber Threat Management
+- Cisco Network Defense
+- Cisco Networking Basics
+- Microsoft & LinkedIn Career Essentials in Cybersecurity
+- Mastercard Cybersecurity Job Simulation — Forage
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+---
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## 🎯 Career Interests
+
+I'm particularly interested in opportunities involving:
+
+- Security Operations Centre (SOC) analysis
+- Cybersecurity analysis and incident response
+- Threat detection and hunting
+- Vulnerability management
+- Application security and DevSecOps
+- Cloud security engineering
+
+I enjoy learning by building, investigating, testing, and documenting. My goal is to turn technical knowledge into practical security improvements that help organisations reduce risk and protect their digital assets.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with cybersecurity professionals, collaborating on security projects, learning from the community, and exploring opportunities to contribute to security teams.
+
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/phebe-abayomi-68aa541aa)
+- 🐙 GitHub: Explore my repositories and projects here.
+- 📍 Location: Nigeria
+
+---
+
+*Learning continuously. Building securely. Defending intelligently.* 🔐
